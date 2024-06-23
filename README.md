@@ -1,0 +1,1 @@
+Python script for analyzing UK traffic accident data. Includes cleaning, EDA, and visualizations using Pandas, Seaborn, Matplotlib, and Folium. Explore road conditions, time trends, and accident hotspots.
